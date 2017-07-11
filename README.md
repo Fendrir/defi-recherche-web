@@ -35,3 +35,14 @@ Source => https://www.miximum.fr/blog/quelle-est-la-difference-entre-web-et-inte
 
 ===========================================================================================================================
 
+4 => Que sont le copyright et le copyleft ?
+-------------------------------------------
+
+Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common law, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale. Il désigne donc un ensemble de lois en application, notamment, dans les pays du Commonwealth et aux États-Unis ; et qui diffère du droit d'auteur appliqué dans les pays de droit civil (tels que la France ou la Belgique).
+
+
+Le copyleft, est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
+
+Source : https://github.com/Fendrir/defi-recherche-web
+
+===========================================================================================================================
