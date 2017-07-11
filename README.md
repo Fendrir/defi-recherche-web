@@ -67,3 +67,25 @@ Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvie
 --------------------------
 
 Qwant est un moteur de recherche français, créé le 16 février 2013, puis lancé en version définitive le 4 juillet 2013. Il annonce ne pas tracer ses utilisateurs afin de garantir la vie privée, et se veut neutre dans l'affichage des résultats.
+
+===========================================================================================================================
+
+7 => Qui est Steve Wozniak ?
+----------------------------
+
+Stephen Gary Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
+
+source : https://fr.wikipedia.org/wiki/Steve_Wozniak
+
+===========================================================================================================================
+
+8 => D'où vient l'expression "bug informatique" ?
+-------------------------------------------------
+
+C'était un terme utilisé par les ingénieurs en mécanique et électricité, expliquant les difficultés rencontrées dans l'équipement, longtemps avant que Grace Hopper ait entendu parler de ce mot.
+
+L’utilisation du terme pour décrire les défauts de systèmes mécaniques date d’au moins avant les années 1870. Thomas Edison, entre autres, utilisait le mot dans ses notes
+
+source : https://fr.wikipedia.org/wiki/Bug_(informatique)
