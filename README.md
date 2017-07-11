@@ -46,3 +46,12 @@ Le copyleft, est l'autorisation donnée par l'auteur d'un travail soumis au droi
 Source : https://github.com/Fendrir/defi-recherche-web
 
 ===========================================================================================================================
+
+5 => Que sont les Creatives Commons ?
+-------------------------------------
+
+Creative Commons (CC) est une association à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux.
+
+source : https://fr.wikipedia.org/wiki/Creative_Commons
+
+===========================================================================================================================
